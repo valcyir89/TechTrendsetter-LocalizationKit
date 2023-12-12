@@ -1,0 +1,1 @@
+# TechTrendsetter-LocalizationKit
